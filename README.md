@@ -9,5 +9,5 @@ Drag it to the Trash Folder and then turn off Bluetooth.  [url_source](https://w
 # Step 2 - Reset The Core Audio
 - Use te terminal : ``sudo killall coreaudiod``
 
-# Step 3 - Resart your computer
+# Step 3 - Restart your computer
 
